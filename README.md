@@ -7,7 +7,12 @@ Open this link [link](https://devchgallengefinal.atlassian.net/)
 
 # Jira acess:
 >Email - checkflatbill@gmail.com
->Password
+>Password - xc12XC!@
 
 # Project link
 Project can be found [here](https://devchgallengefinal.atlassian.net/browse/TRIP)
+
+# Artifacts:
+Check list,
+Test Plan,
+Test Report
