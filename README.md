@@ -7,7 +7,7 @@ Open this link [link](https://devchgallengefinal.atlassian.net/)
 
 # Jira acess:
 >Email - checkflatbill@gmail.com
->Password - -
+>Password
 
 # Project link
 Project can be found [here](https://devchgallengefinal.atlassian.net/browse/TRIP)
